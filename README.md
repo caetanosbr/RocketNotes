@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto RocketNote. Com essa aplicação podemos gerenciar links e adicionar anotações.
+Projeto RocketNote. Com essa aplicação podemos gerenciar links e anotações.
 
 Nessa aplicação voce encontra uma interface com autenticação de usuário. O usuário pode criar sua conta e logar, podendo criar notas e gerenciar suas notas por tags.
 podendo pesquisar e gerenciar todas as notas criadas na aplicação.
