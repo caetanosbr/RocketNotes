@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="project preview gif" src="./assets/GitFav.PNG" width="100%">
+  <img alt="project preview gif" src="./assets/RocketNotes.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
